@@ -1,0 +1,19 @@
+{
+  "name": "signapp-server",
+  "version": "1.0.0",
+  "description": "Server side part of the SignApp service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegommir/signapp-server.git"
+  },
+  "author": "Diego Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegommir/signapp-server/issues"
+  },
+  "homepage": "https://github.com/diegommir/signapp-server#readme"
+}
